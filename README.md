@@ -11,10 +11,10 @@ He wears an Orient Dyno and proudly owns a vintage 1998 RADO Voyager and carries
 * 📫 Founder **[Khattak Informatics, Pvt Ltd](http://khattak.info)** as Full Stack Engineer, a multinational data and software solutions company.
  * 👨 Co-Founder **[ByteOps Technologies, Pvt Ltd](http://byteops.co)** as Software solutions company.
   * 💬 Feel free to ask me about `Java, PhP, JavaScript / TypeScript, React, Redux, Node / Express, Firebase, MongoDB, etc`.
-  * 🤝 Contributing to Open Source Projects
-  * 💻 [Personal Web page and Blog](https://hasan.khattak.info) 
   * 📖 Learning about `Machine Learning, DevOps, Microservices, RxJS`
   * ⚡ Learning about Latest news in Tech industry, Huge Linux Fan, Avid Android Rom Hooper 
+  * 🤝 Contributing to Open Source Projects
+  * 💻 [Personal Web page and Blog](https://hasan.khattak.info) 
   * ✨ Research Profiles on [ORCID](https://orcid.org/0000-0002-8198-9265) and [Web of Science](https://publons.com/researcher/N-4656-2014/).
 Feel free to contact  [📩](https://hasan.khattak.info/calendar/)
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/linkedin-icon.png)](https://www.linkedin.com/in/hasanalikhattak/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/twitter-icon.png)](https://twitter.com/hasanalikhattak) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/instagram-icon.png)](https://www.instagram.com/hasanalikhattak/)
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzIzODY4XX0=
+eyJoaXN0b3J5IjpbNTA0NTIwMDMyXX0=
 -->
