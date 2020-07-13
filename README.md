@@ -16,7 +16,8 @@ He wears an Orient Dyno and proudly owns a vintage 1998 RADO Voyager and carries
   * 📖 Learning about `Machine Learning, DevOps, Microservices, RxJS`
   * ⚡ Learning about Latest news in Tech industry, Huge Linux Fan, Avid Android Rom Hooper 
   * ✨ Research Profiles on [ORCID](https://orcid.org/0000-0002-8198-9265) and [Web of Science](https://publons.com/researcher/N-4656-2014/).
-📩 Feel free to contact &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/linkedin-icon.png)](https://www.linkedin.com/in/hasanalikhattak/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/twitter-icon.png)](https://twitter.com/hasanalikhattak) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/instagram-icon.png)](https://www.instagram.com/hasanalikhattak/)
+Feel free to contact  [📩](https://hasan.khattak.info/calendar/)
+&nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/linkedin-icon.png)](https://www.linkedin.com/in/hasanalikhattak/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/twitter-icon.png)](https://twitter.com/hasanalikhattak) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/instagram-icon.png)](https://www.instagram.com/hasanalikhattak/)
 
 <!--
 **hasanalikhattak/hasanalikhattak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +35,5 @@ Here are some ideas to get you started:
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTk2NjM2NV19
+eyJoaXN0b3J5IjpbMzk4MzIzODY4XX0=
 -->
