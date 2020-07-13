@@ -16,5 +16,6 @@ He wears an Orient Dyno and proudly owns a vintage 1998 RADO Voyager and carries
 * 🤝 Contributing to Open Source Projects
 * 💻 Personal Web page [Blog](https://hasan.khattak.info) 
 * ✨ Research Profiles on [ORCID](https://orcid.org/0000-0002-8198-9265) and [Web of Science](https://publons.com/researcher/N-4656-2014/).
-Feel free to contact [📩] (https://hasan.khattak.info/calendar/)
+Feel free to contact [📩 Contact Me](https://hasan.khattak.info/calendar/)
+
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/linkedin-icon.png)](https://www.linkedin.com/in/hasanalikhattak/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/twitter-icon.png)](https://twitter.com/hasanalikhattak) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/hasanalikhattak/hasanalikhattak/master/instagram-icon.png)](https://www.instagram.com/hasanalikhattak/)
