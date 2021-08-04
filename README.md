@@ -1,6 +1,8 @@
-# Dr. Hasan Ali Khattak [![HitCount](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak.svg)](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak)
+# Dr. Hasan Ali Khattak
+
 ## Associate Professor/Senior Lecturer, School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad, Pakistan. (2020 - Present)
-## Ph.D. Electrical and Computer Engineering, SisInfLab, Politecnico di Bari, Italy. (2015)
+
+### Ph.D. Electrical and Computer Engineering, SisInfLab, Politecnico di Bari, Italy. (2015)
 
 Hasan Ali Khattak is currently serving as Associate Professor of Computer Science at School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad, Pakistan. He received his Ph.D. in Electrical and Computer Engineering degree from Politecnico di Bari, Bari, Italy on April 2015, Master's degree in Information Engineering from Politecnico di Torino, Torino, Italy, in 2011, and B.CS. degree in Computer Science from the University of Peshawar, Peshawar, Pakistan in 2006.
 
