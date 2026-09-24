@@ -1,19 +1,24 @@
 # Dr. Hasan Ali Khattak
 
-## - Senior Lecturer, School of Computer, Data and Mathematical Sciences, Western Sydney University, Australia (2024 -- present)
-## - Senior Lecturer, Data Sciences, Sydney Polytechnic Institute, Australia (2024 -- present)
+# Experience
+## Senior Lecturer, Data Sciences, Sydney Polytechnic Institute, Australia (2024 -- present)
 
-### Associate Professor, School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad, Pakistan. (2016 - 2025)
+## Associate Professor, School of Electrical Engineering and Computer Science, National University of Sciences and Technology (NUST), Islamabad, Pakistan. (2014 - 2026)
 
-### Ph.D. Electrical and Computer Engineering, SisInfLab, Politecnico di Bari, Italy. (2015)
+## EDUCATION
 
-Hasan Ali Khattak is a Senior Lecturer at Western Sydney University, Australia, and an Associate Professor of Computer Science at the School of Electrical Engineering and Computer Science at the National University of Sciences and Technology (NUST), Islamabad, Pakistan. He received his Ph.D. in Electrical and Computer Engineering from Politecnico di Bari, Bari, Italy, in April 2015. He also holds a Master's degree in Information Engineering from Politecnico di Torino, Torino, Italy, and a B.CS degree in Computer Science from the University of Peshawar, Pakistan, both of which he obtained in 2011 and 2006, respectively. With over 12 years of teaching experience at various universities in Oman, Australia, Italy, and Pakistan, he has held multiple roles, including course coordinator, theme leader, and industry liaison focal person. He has contributed to various committees in different roles for accreditation to the Washington Accord, the Australian Computer Society, and the Pakistan Higher Education Commission for graduate and undergraduate program accreditation.
+### Ph.D. Electrical and Computer Engineering, SisInfLab, Politecnico di Bari, Italy. (2010 - 2014)
 
+Hasan Ali Khattak is a Senior Lecturer Data Sciences, Sydney Polytechnic Institute, Australia, and an Associate Professor of Computer Science at the School of Electrical Engineering and Computer Science at the National University of Sciences and Technology (NUST), Islamabad, Pakistan. He received his Ph.D. in Electrical and Computer Engineering from Politecnico di Bari, Bari, Italy, in April 2015. He also holds a Master's degree in Information Engineering from Politecnico di Torino, Torino, Italy, and a B.CS degree in Computer Science from the University of Peshawar, Pakistan, both of which he obtained in 2011 and 2006, respectively. With over 12 years of teaching experience at various universities in Oman, Australia, Italy, and Pakistan, he has held multiple roles, including course coordinator, theme leader, and industry liaison focal person. He has contributed to various committees in different roles for accreditation to the Washington Accord, the Australian Computer Society, and the Pakistan Higher Education Commission for graduate and undergraduate program accreditation.
+
+## Research
 He has more than four dozen Master students who mainly pursue their doctorates in international universities. With several funded projects completed and many PhD students who graduated, his current research interests focus on future Internet architectures such as the Web of Things and leveraging data sciences and social engineering for future smart cities. Along with publishing in suitable research venues, he has a cumulative impact factor of 300+, with more than 120 publications in well-reputed journals. 
 
+## Publications
 Along with completing successfully funded National and International projects, he also serves as a reviewer in reputed venues such as IEEE Access, IEEE Network Magazine, IEEE Consumer Electronics, Hindawi, SAI, IET, and a few national publishers. He is currently involved in several funded research projects in various domains such as healthcare information management, semantic web of things, and fog computing, and he is exploring ontologies and other semantic web technologies. He is an active Senior Member of IEEE, a professional member of ACM, and a member of societies such as IEEE ComSoc, IEEE VTS, and Internet Society.
 
-He wears an Orient Dyno, proudly owns a vintage 1998 RADO Voyager, and carries a rooted  Android Phone. He loves being social and is good with people. Loves watching movies, playing computer games, surfing the world wide web, and along that loves to capture photos of memories and people. 
+## About
+He wears an Orient Dyno, proudly owns a vintage 1998 RADO Voyager, and always carries a rooted  Android Phone. He loves being social and is good with people. Loves watching movies, playing computer games, surfing the world wide web, and along that loves to capture photos of memories and people. 
 
 * 📫 Founder, Project Manager and Consultant in **[Khattak Informatics, Pvt Ltd](http://khattak.info)**, a multinational data and software solutions company.
 * 👨 Co-Founder **[ByteOps Technologies, Pvt Ltd](http://byteops.co)** a Data Analytics Division of **[GoProgs Technologies, Pvt Ltd](https://goprogs.com/)**.
